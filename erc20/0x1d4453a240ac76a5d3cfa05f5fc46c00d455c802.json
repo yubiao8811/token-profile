@@ -1,0 +1,16 @@
+{
+  "symbol": "MLT",
+  "address": "0x1d4453a240ac76a5d3cfa05f5fc46c00d455c802",
+  "overview":{
+        "en": "McLovin Token.",
+        "zh": "McLovin Token"
+  },
+  "email": "Email",
+  "website": "https://qvp.io/",
+  "whitepaper": "",
+  "state": "NORMAL",
+  "published_on": "2018-04-03",
+  "initial_price":{
+        "ETH":"0.000004 ETH",
+        "USD":"0.001 USD",
+}
